@@ -13,4 +13,4 @@
 print("¡Hola, mundo!")
 ```
 ## Imágenes
-![astronauta](https://images.app.goo.gl/omivEMjpmvMHGfeHA)
+![astronauta](https://images.app.goo.gl/WZAair57ZRUjhG947)
