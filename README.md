@@ -12,3 +12,5 @@
 ```python
 print("¡Hola, mundo!")
 ```
+## Imágenes
+![astronauta](https://images.app.goo.gl/omivEMjpmvMHGfeHA)
