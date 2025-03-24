@@ -1,2 +1,14 @@
-# H-ctor-125-38.github.io
-puedes contactarme si lo deseas hacer 323030269@upjr.edu.mx
+# Mi Primera Página
+
+## Introducción
+¡Bienvenido a mi primera página en Markdown! Aquí aprenderás lo básico sobre cómo estructurar contenido en este formato.
+
+## Características
+- **Sencillo de escribir**
+- **Fácil de leer**
+- **Compatible con muchas plataformas**
+
+## Código de ejemplo
+```python
+print("¡Hola, mundo!")
+```
